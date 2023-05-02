@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Metin</h1>
 <h3 align="center">Sofware Develepor</h3>
-<img src="/‪D:\yusuf\Pictures\Github GİF Resimler\GitHub_Foto (7).gif"/>
+<img src="https://github.com/yusufmetin81/yusufmetin81/blob/main/GitHub_Foto%20(7).gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufmetin81&label=Profile%20views&color=0e75b6&style=flat" alt="yusufmetin81" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufmetin81" alt="yusufmetin81" /></a> </p>
