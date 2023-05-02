@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Metin</h1>
 <h3 align="center">Sofware Develepor</h3>
-
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twitter.com/yusuffmetinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/yusuffmetinn" height="30" width="40" /></a>
