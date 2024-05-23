@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufmetin81" alt="yusufmetin81" /></a> </p>
 
-- 📫 Mail: **yusufmetin262@gmail.com**
+- 📫 Mail: **ysffmetinn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
